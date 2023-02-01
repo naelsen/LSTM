@@ -2,4 +2,4 @@ lstm.py is implementing an LSTM cell. It first initializes the weight matrices a
 
 Here the maths behind :
 
-![lstm](lstm.pdf)
+![Screenshot](lstm.pdf)
