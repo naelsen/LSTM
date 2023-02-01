@@ -2,4 +2,4 @@ lstm.py is implementing an LSTM cell. It first initializes the weight matrices a
 
 Here the maths behind :
 
-![alt text](https://github.com/naelsen/LSTM/blob/main/lstm.pdf)
+![alt text](https://github.com/naelsen/LSTM/blob/main/lstm.pdf?raw=true)
